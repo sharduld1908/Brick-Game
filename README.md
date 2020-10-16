@@ -1,4 +1,4 @@
-# Destroying Bricks Game. 
+## Destroying Bricks Game. 
 The classic brick game  we have all played in which we have to destroy the bricks by bouncing the ball on a stick to get to next level. 
 
 Made using Java API java.awt and java.swing.
